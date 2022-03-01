@@ -1,0 +1,3 @@
+/home/surui/test/RegionGame/build/CMakeFiles/main.dir
+/home/surui/test/RegionGame/build/CMakeFiles/edit_cache.dir
+/home/surui/test/RegionGame/build/CMakeFiles/rebuild_cache.dir
